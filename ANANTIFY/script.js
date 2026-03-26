@@ -37,7 +37,7 @@ async function getSongs(folder) {
         if (element.href.endsWith(".mp3")) {
             let url = new URL(element.href);
             let rawName = decodeURIComponent(url.pathname.split("/").pop());
-            let songName = rawName.split("\\").pop();   // 🔥 remove backslash path
+            let songName = rawName.split("\\").pop(); 
 
             if (songName) {
                 songs.push(songName);
