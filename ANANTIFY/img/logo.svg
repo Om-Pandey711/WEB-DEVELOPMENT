@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+viewBox="0 0 105 20"
+height="24"
+role="img"
+aria-label="Anantify">
+
+<title>Anantify</title>
+
+<!-- Minimal Infinity Sound Icon -->
+<path
+d="M6 12c2-4 6-4 8 0s6 4 8 0"
+stroke="currentColor"
+stroke-width="2"
+fill="none"
+stroke-linecap="round"
+stroke-linejoin="round"/>
+
+<path
+d="M6 12c2 4 6 4 8 0s6-4 8 0"
+stroke="currentColor"
+stroke-width="2"
+fill="none"
+stroke-linecap="round"
+stroke-linejoin="round"/>
+
+<!-- Brand Name -->
+<text
+x="26"
+y="16"
+font-family="Arial, Helvetica, sans-serif"
+font-size="12"
+font-weight="700"
+letter-spacing="1"
+fill="currentColor">
+ANANTIFY
+</text>
+
+</svg>
